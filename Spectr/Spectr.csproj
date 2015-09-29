@@ -117,6 +117,7 @@
     <Content Include="Views\Home\about.aspx" />
     <Content Include="Views\Home\adsb.aspx" />
     <Content Include="Views\Home\contact.aspx" />
+    <Content Include="Content\images\1076192_friends.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
